@@ -1,0 +1,5 @@
+Check That First Character Is CAPITAL.
+Don't Use Space.
+^
+>Email         >EMAIL OR GMAIL ACCOUNT(Ex.abc@gmail.com)
+>Name_Of_City  >NameOfCity(Ex.Surat)
